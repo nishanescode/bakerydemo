@@ -1,4 +1,4 @@
-Wagtail demo project
+Wagtail is helpfull to create a website and we can save our time.
 =======================
 
 This is a demonstration project for the amazing [Wagtail CMS](https://github.com/wagtail/wagtail).
