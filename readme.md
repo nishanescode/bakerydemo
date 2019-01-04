@@ -1,4 +1,6 @@
 Wagtail is helpfull to create a website and we can save our time.
+Wagtail has many builtin functions and while installing wagtail some files and folders will get installed automatically,
+which is helpfull to avoide some mistakes or errors. 
 =======================
 
 This is a demonstration project for the amazing [Wagtail CMS](https://github.com/wagtail/wagtail).
